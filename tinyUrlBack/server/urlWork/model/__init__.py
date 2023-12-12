@@ -1,0 +1,1 @@
+from model.urlmap import urlModel
